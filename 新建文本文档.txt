@@ -1,0 +1,1 @@
+svn auth --username fangshaopeng --password 26668 --non-interactive
